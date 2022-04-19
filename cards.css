@@ -1,0 +1,36 @@
+*{
+    margin:0px
+    padding:0px
+}
+
+.cards{
+    width:20%;
+    background-color: #b84848;
+    border-radius: 5px;
+    box-shadow: 4px 4px 10px blue;
+}
+.img{
+    width: 100px;
+    margin:auto
+    float:left
+    
+}
+.title{
+    text-align: center;
+    background-color: cadetblue;
+}
+
+.description{
+    text-align: center;
+    padding: 4px;
+    background-color: aliceblue;
+}
+
+.button{
+    margin-top: 30px;
+    margin-bottom: 30%;
+    background-color: aliceblue;
+    border: 5px;
+    padding:5px
+    
+}
